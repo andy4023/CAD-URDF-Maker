@@ -3,6 +3,7 @@
 **Current release: 1.3.4**
 
 A SolidWorks 2024 add-in for creating URDF robots from native assemblies. Group rigid parts into links, define and confirm joint origins, inspect mass/CoG/inertia, preview motion, and export URDF with STL meshes.
+**Only tested in SolidWorks 2024**
 
 ## Start here
 
