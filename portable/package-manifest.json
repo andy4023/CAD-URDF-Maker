@@ -1,0 +1,121 @@
+{
+  "version": "1.3.4",
+  "files": [
+    {
+      "path": "CAD-URDF Maker.dll",
+      "sha256": "83a4433d9842c1225e8d14ec2a5adcdef1964153e6d832c276807dac0c14d6d5"
+    },
+    {
+      "path": "CadUrdfMaker.Core.dll",
+      "sha256": "f9fed9752e56cf723dad34ea055d65d48805efb77a5293c3b2959e4d2b53ad35"
+    },
+    {
+      "path": "Microsoft.Web.WebView2.Core.dll",
+      "sha256": "88a3b62f45225a811cdb85df6dfd95c2bff9a0e43e3b04f813b125eaca56cc9f"
+    },
+    {
+      "path": "Microsoft.Web.WebView2.WinForms.dll",
+      "sha256": "29fc954c3fde1749817d158f3dd5ebe9efd3b3ce9708d86092fb1e9f023a1cb0"
+    },
+    {
+      "path": "WebView2Loader.dll",
+      "sha256": "462b36fd1be6ca9f7563466a89e57c41ef4a4def3e0a84fa885d203aea4a3aaf"
+    },
+    {
+      "path": "SolidWorks.Interop.sldworks.dll",
+      "sha256": "fa85c4e9b26d0ba996c53362e95afe42ab563c96f27d87cd6809d262f3d3c4cb"
+    },
+    {
+      "path": "SolidWorks.Interop.swconst.dll",
+      "sha256": "25897dc6f2e04f29f62f9364ffedd498d2e68eca2eed65b843792718b434feff"
+    },
+    {
+      "path": "SolidWorks.Interop.swpublished.dll",
+      "sha256": "bf6e6ceff4db585a2f9e0de9034f93a7f6e2307632cb1f1155554f9854a78962"
+    },
+    {
+      "path": "Install.exe",
+      "sha256": "661656f9b3a9db22f844ba5ec8ad94ade85033dcaeb40e5cc55d9b387561a559"
+    },
+    {
+      "path": "Uninstall.exe",
+      "sha256": "661656f9b3a9db22f844ba5ec8ad94ade85033dcaeb40e5cc55d9b387561a559"
+    },
+    {
+      "path": "Install.ps1",
+      "sha256": "56f4b4a9251e25b39cdb98bbe3fd03edb4b1a0875945a04bb1eb82c2ad646579"
+    },
+    {
+      "path": "Uninstall.ps1",
+      "sha256": "2da3f0b338a01e6d1c2eff52469b0e5788273e78bdc2d4f1dd927d203b031128"
+    },
+    {
+      "path": "README.md",
+      "sha256": "33e638fc783d2a6f27562b4e4e1000b2010f8cf72fa22809ed7902b862f1a238"
+    },
+    {
+      "path": "KEY-FUNCTIONS.md",
+      "sha256": "4d148113a553b4ca5f9913f20ae157e498ccdbc344fac5130da44aec96307402"
+    },
+    {
+      "path": "WORKFLOWS.md",
+      "sha256": "30972729d4dc546f3f2c5710a5e4a1f07dc6c739e5e6a3172cc1cc61310c9f32"
+    },
+    {
+      "path": "INERTIA-VALIDATION.md",
+      "sha256": "22ee2cf4d5b5562f520f0dda5e4b6967d64f021e230bfdace7d0769c73027d5e"
+    },
+    {
+      "path": "INSTALLATION.md",
+      "sha256": "5d7252b8c7893c7f94dcb7507357104f7fc23e7dcd065e04c8f1f413e57766b2"
+    },
+    {
+      "path": "PROJECT-FORMAT.md",
+      "sha256": "d68f47e702dfc33e55b109b00bc22177416d25ec07cce60c6a2bce470e1cd154"
+    },
+    {
+      "path": "THIRD-PARTY-NOTICES.md",
+      "sha256": "fae1f33d14bc2749e1bbd673fc01acf2d302e2f643f369c81c6c2aa6acfd254e"
+    },
+    {
+      "path": "web/index.html",
+      "sha256": "289a6bdb5e22129bc0d87763500ec219e241df7eef61b20d8b8b0dd25211507b"
+    },
+    {
+      "path": "web/app.js",
+      "sha256": "bcfd8d8aadcab635efdddcb6a8a8e85fcf48d932e3649f54058ebddee91d6bd0"
+    },
+    {
+      "path": "web/math.js",
+      "sha256": "a667eadc0759dd026d1c399d6da41f123269e9db7f08178ebf7ee6fd6d4c0c6c"
+    },
+    {
+      "path": "web/types.js",
+      "sha256": "8e609bb71c20b858c77f0e9f90bb1319db8477b13f9f965f1a1e18524bf50881"
+    },
+    {
+      "path": "web/style.css",
+      "sha256": "264cb21bb0f6766d4861cc4a4a2efcbeb0891bb69f71877025380f3e1fda6a51"
+    },
+    {
+      "path": "web/icon.bmp",
+      "sha256": "c0238f2ee5a88bad02f0103a565fefb7c8272c06d041c15829ebb2b2e4a1aeef"
+    },
+    {
+      "path": "web/vendor/three.module.js",
+      "sha256": "ce1fa418de16a19495a9f72495580e3015d7745c296d3ce0485897f902ddedfb"
+    },
+    {
+      "path": "web/vendor/OrbitControls.js",
+      "sha256": "6f3052dd8860a60fe6999260d50558ff54609523724c6e374326228e5590cf55"
+    },
+    {
+      "path": "web/vendor/THREE-LICENSE.txt",
+      "sha256": "4c40a1ef62450b857c3b2aaf294936304cd552d965fbcd9d32d4c5bcf4ba4454"
+    },
+    {
+      "path": "licenses/WEBVIEW2-LICENSE.txt",
+      "sha256": "0af8f1b807512aae39c2ac1aa4d0cae65cabecb6fd554b8439a5162a0d6eca55"
+    }
+  ]
+}

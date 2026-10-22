@@ -1,0 +1,10 @@
+{
+  "name": "cad-urdf-maker",
+  "version": "1.3.4",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "check:editor": "node vendor/typescript/package/lib/tsc.js -p web/tsconfig.json --noEmit",
+    "test:math": "node tests/math-tests.mjs"
+  }
+}
